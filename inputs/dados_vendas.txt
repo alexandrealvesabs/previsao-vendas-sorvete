@@ -1,0 +1,3 @@
+Este projeto visa prever as vendas de sorvete com base na temperatura do dia.
+Espera-se que, em dias mais quentes, as vendas aumentem significativamente.
+A análise de dados históricos será essencial para treinar o modelo de Machine Learning.
